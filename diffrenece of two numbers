@@ -1,0 +1,8 @@
+public class Subtraction{
+public static void main(string[] args){
+int numberone=45;
+int numbertwo=40;
+int difference=numberone-numbertwo;
+system.out.println("Result is:'+difference)
+}
+}
